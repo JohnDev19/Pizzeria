@@ -1,6 +1,6 @@
 # Pizzeria Landing Page Template
 
-Welcome to the Pizzeria landing page template! This project is designed to showcase a modern and responsive landing page for a pizza restaurant, utilizing HTML5, CSS3, and JavaScript. 
+Fully responsive landing page template with HTML5, CSS3, and JavaScript. 
 
 ![1_20250307_205948_0000](https://github.com/user-attachments/assets/cbcb9a6a-d634-47be-a43f-a9683f04b446)
 ![2_20250307_205949_0001](https://github.com/user-attachments/assets/d0ca3ac6-f362-4527-a47a-72b3dfdc7d9f)
